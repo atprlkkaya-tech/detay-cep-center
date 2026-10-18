@@ -1,0 +1,10 @@
+# Windows & Sistem Dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Geçici / Sunucu dosyaları
+*.log
+*.tmp
+server.ps1
